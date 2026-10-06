@@ -1,0 +1,11 @@
+{
+  "name": "rhys56-plugins",
+  "owner": { "name": "rhys56" },
+  "plugins": [
+    {
+      "name": "gemini",
+      "source": "./plugins/gemini",
+      "description": "Ask Google Gemini questions and get second opinions on code from inside Claude Code."
+    }
+  ]
+}

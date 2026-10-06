@@ -1,0 +1,6 @@
+{
+  "name": "gemini",
+  "version": "0.1.0",
+  "description": "Ask Google Gemini questions and get second opinions on code from inside Claude Code. Needs GEMINI_API_KEY.",
+  "author": { "name": "rhys56" }
+}
